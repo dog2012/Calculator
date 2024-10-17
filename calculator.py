@@ -21,4 +21,5 @@ def basic():
     else:
         print("number not found")
     print(result)
-basic()
+while True:
+    basic()
